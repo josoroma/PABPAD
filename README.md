@@ -2,6 +2,8 @@
 
 PabPad is a browser-based music pad workstation built with Next.js. It lets you play a 4x4 pad grid, shape synth sounds with knobs and faders, record patterns, arrange clips across tracks, and jam over built-in original songs.
 
+Play with PabPad live: https://pabpad.onrender.com/
+
 [![PabPad screenshot](https://img.youtube.com/vi/lIWBI1QEz7k/hqdefault.jpg)](https://www.youtube.com/watch?v=lIWBI1QEz7k)
 
 ## What You Can Do
